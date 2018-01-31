@@ -6,6 +6,6 @@ public class Main {
 		Zoumaobu cat=new Zoumaobu();
 		cat.setName("sdf");
 		cat.zou();
+		//i've changed this java
 	}
-	
 }
